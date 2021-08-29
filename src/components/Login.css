@@ -1,0 +1,31 @@
+@media screen and (min-width: 768px) {
+    .menu-item {
+      grid-template-columns: 225px 1fr;
+      gap: 0 1.25rem;
+      max-width: 40rem;
+    }
+    .photo {
+      height: 175px;
+    }
+  }
+  @media screen and (min-width: 1200px) {
+    .section-center {
+      width: 95vw;
+      grid-template-columns: 1fr 1fr;
+    }
+    .photo {
+      height: 150px;
+    }
+  }
+  
+  
+  @media all and (min-width: 480px) {
+    .Login {
+      padding: 60px 0;
+    }
+  
+    .Login form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+  }

@@ -1,0 +1,14 @@
+{
+    "Home": {
+        "h1": "WELCOME TO RESTAURANT",
+        "p": "Dileviring great food for more than 18 year!",
+        "h2": "Lorem ipsum, dolor sit amet consectetur adipisicing elit dolor sit amet consectetur adipisicing elit. Praesentium tempore vero magnam rem recusandae unde, nulla velit voluptatem maiores debitis laudantium odio obcaecati autem architecto. Quo commodi ipsam harum aspernatur labore? Blanditiis id dignissimos ut, ad iure rem est nobis."
+    },
+    "Header": {
+        "home": "HOME", 
+        "menu": "MENU",
+        "reservation": "RESERVATION",
+        "about": "ABOUT",
+        "contact": "CONTACT US"
+    }
+}
